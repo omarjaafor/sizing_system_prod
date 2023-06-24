@@ -1,0 +1,19 @@
+TOPIC_NAME = "create-instance-event"
+KIND = "sizing-system"
+PROJECT_ID = "camaieu-sf4-application"
+PORT = 4001
+
+bucket = "gs://smart-fashion-data/"
+BUCKET_NAME = "smart-fashion-data"
+
+LOGNAME = "sizing"
+
+# Logger Severity
+CRITICAL = "CRITICAL"
+FATAL = CRITICAL
+ERROR = "ERROR"
+WARNING = "WARNING"
+WARN = WARNING
+INFO = "INFO"
+DEBUG = "DEBUG"
+NOTSET = "NOTSET"
