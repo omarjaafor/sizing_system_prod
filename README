@@ -8,3 +8,4 @@ Les critères utilisés pour identifier un taillant sont :
 ● et le nombre de tailles.
 
 
+Cette application est hébérgé sous l'environnement GCP. Afin de l'éxecuter, il faut éditer lib/constants.py est lancer flask_app.py. 
