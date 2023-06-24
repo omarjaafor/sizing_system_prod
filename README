@@ -1,0 +1,10 @@
+Cette application est l'implementation d'une méthode qui permet de générer un système de taille pour une population donnée (https://ieeexplore.ieee.org/abstract/document/9530202). Un système de tailles définit les
+dimensions des vêtements produits. Ces systèmes sont le plus souvent construits à partir d’informations anecdotiques et peu représentatives de la population ciblée.
+
+Les critères utilisés pour identifier un taillant sont :
+● le taux de couverture d’une population,
+● la distance entre les tailles qui composent un taillant
+● la population couverte,
+● et le nombre de tailles.
+
+
