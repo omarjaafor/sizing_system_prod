@@ -1,4 +1,5 @@
-# PRED MORPHO
+# #Permet de prédire les morphotypes pour des clientes, sert à filtrer par morphotype ou générer des stats.
+
 import copy
 import json
 import os
