@@ -1,3 +1,5 @@
+#Permet de prédire les mensurations manquantes pour des clientes en utilisant des modèles pré-entrainés renseigné dans la bucket des modèles.
+
 import os
 
 import joblib
