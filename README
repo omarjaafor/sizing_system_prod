@@ -1,5 +1,5 @@
 Cette application est l'implementation d'une méthode qui permet de générer un système de taille pour une population donnée (https://ieeexplore.ieee.org/abstract/document/9530202). Un système de tailles définit les
-dimensions des vêtements produits. Ces systèmes sont le plus souvent construits à partir d’informations anecdotiques et peu représentatives de la population ciblée.
+dimensions des vêtements d'un certain type. Ces systèmes sont le plus souvent construits à partir d’informations anecdotiques et peu représentatives de la population ciblée.
 
 Les critères utilisés pour identifier un taillant sont :
 ● le taux de couverture d’une population,
@@ -8,5 +8,5 @@ Les critères utilisés pour identifier un taillant sont :
 ● et le nombre de tailles.
 
 
-Cette application est hébérgé sous l'environnement GCP. Afin de l'éxecuter, il faut éditer lib/constants.py est lancer flask_app.py. La bucket renseigné doit contenir des modèles entrainés pour la détéction
-de taillant (voir article)
+Cette application est hébérgé sous l'environnement GCP. Afin de l'éxecuter, il faut éditer lib/constants.py puis lancer flask_app.py. La bucket renseigné doit contenir des modèles entrainés pour la détéction
+de taillant (voir article).
