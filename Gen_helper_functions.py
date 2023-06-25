@@ -1,4 +1,4 @@
-# Ces fonctions sont utilisées dans BBSS. Ensemble des helpers functions pour l'algorithme de génération de tailles décrit dans : https://ieeexplore.ieee.org/abstract/document/9530202
+# Ces fonctions sont utilisées dans FFSS_BBSS. Ensemble des helpers functions pour l'algorithme de génération de tailles décrit dans : https://ieeexplore.ieee.org/abstract/document/9530202
 
 
 import numpy as np
